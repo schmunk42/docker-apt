@@ -10,6 +10,10 @@ Show dependencies for a package
 
     docker run schmunk42/apt apt-cache depends php5-intl
 
+## Resources
+
+- https://hub.docker.com/r/schmunk42/apt/
+
 ---
 
 Built by [dmstr](http://diemeisterei.de)
